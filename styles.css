@@ -1,5 +1,5 @@
 body {
-	background: black;
+	background-color: black;
 	font-family: "Edu SA Beginner", cursive;
 }
 
@@ -45,4 +45,10 @@ input {
 	text-align: center;
 	background-color: grey;
 	padding: 10px;
+}
+#restyling {
+	width: 30%;
+	height: 30%;
+	margin: auto;
+	margin-top: 15%;
 }
