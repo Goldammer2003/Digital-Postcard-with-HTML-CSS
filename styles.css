@@ -4,7 +4,7 @@ body {
 }
 
 p {
-	color: red;
+	color: black;
 }
 .postcard {
 	background: white;
@@ -43,7 +43,6 @@ input {
 }
 .postcard-footer {
 	text-align: center;
-	background-color: grey;
 	padding: 10px;
 }
 #restyling {
@@ -51,4 +50,8 @@ input {
 	height: 30%;
 	margin: auto;
 	margin-top: 15%;
+}
+
+button {
+	background-color: lightgrey;
 }
